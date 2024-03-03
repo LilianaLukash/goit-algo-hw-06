@@ -4,6 +4,8 @@ import pickle
 import networkx as nx
 import matplotlib.pyplot as plt
 
+#Граф представляє схему метро Ліссабону, Португалія
+
 # Пути к файлам
 stations_file = 'All_stations.pkl'
 edges_file = 'All_edges.pkl'
